@@ -8,6 +8,9 @@ jupyterlab = "*"
 numpy = "*"
 matplotlib = "*"
 graphviz = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 
